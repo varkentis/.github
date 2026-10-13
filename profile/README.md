@@ -1,4 +1,4 @@
 # Varkentis
-Bootstrapped company from Santa Rita, Paraguay. We are building Instituto Varkentis, a platform that teaches AI step by step, in Spanish.
+Bootstrapped company from Santa Rita, Paraguay. We are building Instituto Varkentis, a platform with courses on AI and productivity, in Spanish.
 
-Website: https://varkentis.com · Contact: michael@varkentis.com
+Product: https://varkentis.com/instituto · Contact: michael@varkentis.com
